@@ -20,11 +20,11 @@ weight = 60
 	* I cosupervised a group of students working on a presentation assignment. 
 
 **2016-present|**
-[Master's thesis](https://onderwijsaanbod.kuleuven.be/syllabi/n/P0P81AN.htm#activetab=doelstellingen_idp1514128)  
+[Master's thesis](https://onderwijsaanbod.kuleuven.be/syllabi/n/P0P81AN.htm)  
 
 	* I supervise Master's students working on their thesis projects. 
 
 **2015-present|**
-[Functieleer, deel 1](https://onderwijsaanbod.kuleuven.be/syllabi/n/P0M01AN.htm#)  
+[Functieleer, deel 1](https://onderwijsaanbod.kuleuven.be/syllabi/n/P0M01AN.htm)  
 
 	* I am a teaching assistant for this course in the Bachelor program of Psychology at KU Leuven. It encompasses coordinating, preparing (i.e., coming up with exercises, etc.), and teaching tutorial sessions, as wel as marking duties.
