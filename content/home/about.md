@@ -19,7 +19,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "Msc in Psychology, Option D: Theory and Research"
-  institution = "Ku Leuven"
+  institution = "KU Leuven"
   year = 2015
 
 [[education.courses]]
