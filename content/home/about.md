@@ -24,7 +24,7 @@ weight = 5
 
 [[education.courses]]
   course = "Bsc in Psychology, Option D: Theory and Research"
-  institution = "Ku Leuven"
+  institution = "KU Leuven"
   year = 2013
 
  
