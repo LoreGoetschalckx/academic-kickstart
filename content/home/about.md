@@ -30,7 +30,7 @@ weight = 5
  
 +++
 
-# Biography
+# About me
 
 I am a PhD student funded by the Research Foundation Flanders (FWO) and hosted at the [GestaltReVision Lab](http://gestaltrevision.be/en/) at KU Leuven, Belgium. Under supervision of [prof. Johan Wagemans](http://gestaltrevision.be/en/about-us/principal-investigator), I study image memorability.
 
