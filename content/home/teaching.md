@@ -18,7 +18,7 @@ weight = 60
 [Methods of Scientific Research, Part Two](https://onderwijsaanbod.kuleuven.be/syllabi/e/P0Q02AE.htm)  
 	* I cosupervised a group of students working on a presentation assignment. 
 
-**2016- present|**
+**2016-present|**
 [Master's thesis](https://onderwijsaanbod.kuleuven.be/syllabi/n/P0P81AN.htm#activetab=doelstellingen_idp1514128)  
 	* I supervise Master's students working on their thesis projects. 
 
