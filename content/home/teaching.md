@@ -24,4 +24,4 @@ weight = 60
 
 **2015-present|**
 [Functieleer, deel 1](https://onderwijsaanbod.kuleuven.be/syllabi/n/P0M01AN.htm)  
-	* I am a teaching assistant for this course in the Bachelor program of Psychology at KU Leuven. It encompasses coordinating, preparing (i.e., coming up with exercises, etc.), and teaching tutorial sessions, as wel as marking duties.
+	* I am a teaching assistant for this course in the Bachelor program of Psychology at KU Leuven. It encompasses coordinating, preparing (i.e., coming up with exercises, etc.), and teaching tutorial sessions, as well as marking duties.
