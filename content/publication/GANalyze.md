@@ -1,15 +1,15 @@
 +++
-abstract = "You may find some images easier to remember than others. Recent studies of visual memory have found remarkable levels of consistency for this inter-item variability across observers, suggesting that memorability can be considered an intrinsic image property. The current study replicated and extended previous results, while adopting a more traditional visual long-term memory task with retention intervals of 20 min, one day, and one week, as opposed to the previously used repeat-detection task, which typically relied on short retention intervals (5 min). Our memorability rank scores show levels of consistency across observers in line with those reported in previous research. They correlate strongly with previous quantifications and appear stable over time. Furthermore, we show that the way consistency of memorability scores increases with the number of responses per image follows the Spearman-Brown formula. Interestingly, our results also seem to show an increase in consistency with an increase in retention interval. Supported by simulated data, this effect is attributed to a decrease of extraneous influences on recognition over time. Finally, we also provide evidence for a log-linear, rather than linear, decline of the raw memorability scores over time, with more memorable images declining less strongly."
+abstract = "We introduce a framework that uses Generative Adversarial Networks (GANs) to study cognitive properties like memorability, aesthetics, and emotional valence. These attributes are of interest because we do not have a concrete visual definition of what they entail. What does it look like for a dog to be more or less memorable? GANs allow us to generate a manifold of natural-looking images with fine-grained differences in their visual attributes. By navigating this manifold in directions that increase memorability, we can visualize what it looks like for a particular generated image to become more or less memorable. The resulting visual definitions surface image properties (like object size) that may underlie memorability. Through behavioral experiments, we verify that our method indeed discovers image manipulations that causally affect human memory performance. We further demonstrate that the same framework can be used to analyze image aesthetics and emotional valence. Visit the GANalyze website at ganalyze.csail.mit.edu."
 authors = ["Lore Goetschalckx", "Pieter Moors", "Johan Wagemans"]
-date = "2017-09-18"
+date = "2017-06-24"
 image = ""
 image_preview = ""
 math = false
-publication = "Goetschalckx, L., Moors, P., & Wagemans, J. (2017). Image memorability across longer time intervals. *Memory*, 26(5), 581–588. https://doi.org/10.1080/09658211.2017.1383435"
-title = "Image memorability across longer time intervals"
-url_code = ""
+publication = "Goetschalckx, L., Andonian, A., Oliva, A., & Isola, P. (2019). GANalyze: Toward visual definitions of cognitive image properties. *arXiv:1906.10112*. "
+title = "GANalyze: Toward visual definitions of cognitive image properties"
+url_code = "https://github.com/LoreGoetschalckx/GANalyze"
 url_dataset = ""
-url_pdf = "http://www.tandfonline.com/eprint/E3UFjFWqHDqrymiHCwmt/full"
+url_pdf = "https://arxiv.org/pdf/1906.10112.pdf"
 url_project = ""
 url_slides = ""
 url_video = ""
