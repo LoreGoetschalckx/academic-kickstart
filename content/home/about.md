@@ -11,9 +11,9 @@ weight = 5
 [interests]
   interests = [
     "Visual perception",
-	"Perceptual organization",
     "Memory",
-    "Computer Vision"
+    "Computer vision",
+    "Machine learning"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -32,7 +32,6 @@ weight = 5
 
 # About me
 
-I am a PhD student funded by the Research Foundation Flanders (FWO) and hosted at the [GestaltReVision Lab](http://gestaltrevision.be/en/) at KU Leuven, Belgium. Under supervision of [prof. Johan Wagemans](http://gestaltrevision.be/en/about-us/principal-investigator), I study image memorability.
+How does the mind process information? What is intelligence? How do we form memories? These are questions that I have always found intriguing and that motivated me to study psychology and cognitive science. Through my PhD work, I also a grew a profound curiosity for machine learning and artificial intelligence. I'm convinced that the cross-fertilization between the fields of cognitive science and computer science lead to deeper insights in both fields.
 
-
-In my PhD project, I aim to contribute to the understanding of what makes an image memorable by focusing on the more intermediate levels of the visual hierarchy, as opposed to, for example, more high-level semantic content (i.e., the "how" of depicting, rather than the "what"). The working hypothesis is that the variability in image memorability partly resides in how easy it is to organize an image visually. We outlined two approaches to evaluate this hypothesis. One is to investigate the relationship between memorability and other tasks that are dependent on easy perceptual organization. Another approach is to actually identify specific, computable mid-level features underlying memorability. These would be features facilitating a quick extraction of a structural description of the image while keeping it distinctive.
+My PhD work was funded by the Research Foundation Flanders (FWO) and largely carried out at the [GestaltReVision Lab](http://gestaltrevision.be/en/) at KU Leuven, Belgium, advised by [prof. Johan Wagemans](http://gestaltrevision.be/en/about-us/principal-investigator). In addition, I spent 8 months at CSAIL, MIT conducting research as a visiting student, advised by [prof. Phillip Isola](http://web.mit.edu/phillipi/) and [prof. Aude Oliva](http://olivalab.mit.edu/). In my PhD project, I aimed to contribute to the understanding of what makes an image memorable by focusing on the more intermediate levels of the visual hierarchy, as opposed to, for example, more high-level semantic content (i.e., the "how" of depicting, rather than the "what"). 
